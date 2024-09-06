@@ -1,0 +1,68 @@
+* {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: 0;
+    background-color: 0;
+    
+    
+  }
+
+.roundBorderedPics {
+    border: 10cap;
+    border-radius: 50%;
+    height: 200px;
+    width: 50%;
+}  
+
+#picture-of-aitzul {
+    border: 10cap;
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgb(142, 135, 164);
+    color: rgb(210, 159, 159)
+    
+}
+
+p {
+    border-style: double;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+
+}
+
+h1, h2, h3 {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 5px;
+}
+
+a {
+    font-family:'Courier New', Courier, monospace
+}
+
+ol {
+    color: aquamarine;
+    padding: 5px;
+}
+
+ul {
+    color: darkorange;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+}
+
+li {
+    width: 30%;
+    float: left;
+}
+
+header, footer, nav {
+    text-align: center;
+}
+
